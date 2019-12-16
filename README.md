@@ -1,2 +1,2 @@
-# KaggleDS
-Kaggle Data Science Survey Data Analysis &amp; Modeling
+# KaggleMLDS
+Kaggle Machine Learning & Data Science Survey Data Analysis &amp; Modeling
